@@ -18,5 +18,12 @@ If our paper and codes are useful for your research, please cite:
 ```
 
 ## How to use
-Please first dowmload the pre-trained model. [[Link]](https://drive.google.com/drive/folders/1Tpwv__MWHV0ul-627uQNbOuqyFWePJ-N?usp=sharing).
+Please first dowmload the pre-trained model. [[Link]](https://drive.google.com/drive/folders/1Tpwv__MWHV0ul-627uQNbOuqyFWePJ-N?usp=sharing)
+Then run "test_one_image.py" to predict the memerobility score of the input image, e.g.,
+
+```
+python test_one_image.py --img example.jpg
+```
+
+## Notice
 
