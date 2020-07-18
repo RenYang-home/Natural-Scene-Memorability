@@ -17,4 +17,6 @@ If our paper and codes are useful for your research, please cite:
 }
 ```
 
-[[model]](https://drive.google.com/drive/folders/1Tpwv__MWHV0ul-627uQNbOuqyFWePJ-N?usp=sharing).
+## How to use
+Please first dowmload the pre-trained model. [[Link]](https://drive.google.com/drive/folders/1Tpwv__MWHV0ul-627uQNbOuqyFWePJ-N?usp=sharing).
+
