@@ -2,7 +2,7 @@
 
 The open source codes of the paper:
 
-> Ren Yang, Fabian Mentzer, Luc Van Gool and Radu Timofte, "Understanding and Predicting the Memorability of Outdoor Natural Scenes", in IEEE Transactions on Image Processing (T-IP), 2020. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9025769). 
+> Jiaxin Lu, Mai Xu, Ren Yang, Zulin Wang, "Understanding and Predicting the Memorability of Outdoor Natural Scenes", in IEEE Transactions on Image Processing (T-IP), 2020. [[Paper]](https://ieeexplore.ieee.org/abstract/document/9025769). 
 
 If our paper and codes are useful for your research, please cite:
 ```
