@@ -18,7 +18,7 @@ If our paper and codes are useful for your research, please cite:
 ```
 ## Dependency
 
-TensorFlow (we test on tensorflow 1.12)
+TensorFlow (we test on TensorFlow 1.12)
 
 opencv-python
 
