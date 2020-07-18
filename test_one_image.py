@@ -4,8 +4,14 @@ import alexnet_model
 import resnet_model
 import vgg_preprocessing
 import cv2
+import argparse
 
 os.environ['TF_CPP_MIN_LOG_LEVEL'] = '3'
+
+parser = argparse.ArgumentParser(
+      formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+parser.add_argument("--img", default='example.jpg')
+args = parser.parse_args()
 
 BatchSize = 1
 _LABEL_CLASSES = 1
@@ -55,7 +61,7 @@ def main():
         saver = tf.train.Saver(max_to_keep=None)
         saver.restore(sess, "./Models/model.ckpt")
 
-        pic_name = 'example.jpg'
+        pic_name = args.img
         img = cv2.imread(pic_name)
         img = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
         img = cv2.resize(img, (256, 256))
