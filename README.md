@@ -31,6 +31,6 @@ python test_one_image.py --img example.jpg
 As stated in our paper, this model is trained for outdoor natual scenes, i.e., the images which are only composed of outdoor natural scenes,
 without any human, animal and man-made object. The pre-trained model may be not suitable for other kinds of image.
 
-The aim of predicting memorability is to rank the image memorability as correctly as possible. Therefore, the absolute score (e.g., 0.62) itself does not have clear meaning, and only the rank is meaningful, e.g., the image with score = 0.62 is more memorable than the image with score = 0.40. 
+The aim of predicting memorability is to rank the image memorability as correctly as possible. Therefore, the absolute score (e.g., 0.62) itself does not have clear meaning, and only the rank is meaningful, e.g., the image with score = 0.62 is more memorable than that with score = 0.40. 
 
 
