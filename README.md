@@ -19,7 +19,8 @@ If our paper and codes are useful for your research, please cite:
 ## Dependency
 
 TensorFlow (we test on tensorflow 1.12)
-cv2
+
+opencv-python
 
 ## How to use
 Please first dowmload the pre-trained model. [[Link]](https://drive.google.com/drive/folders/1Tpwv__MWHV0ul-627uQNbOuqyFWePJ-N?usp=sharing)
