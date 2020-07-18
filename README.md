@@ -1,1 +1,1 @@
-# Natural-Scene-Memorability
+# Natural Scene Memorability
