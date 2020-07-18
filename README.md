@@ -1,4 +1,4 @@
-# Natural Scene Memorability
+# DeepNSM -- Natural Scene Memorability
 
 The open source codes of the paper:
 
