@@ -18,12 +18,12 @@ If our paper and codes are useful for your research, please cite:
 ```
 ## Dependency
 
-TensorFlow (we test on TensorFlow 1.12)
+TensorFlow (we tested on TensorFlow 1.12 and 1.15)
 
 opencv-python
 
 ## How to use
-Please first dowmload the pre-trained model. [[Link]](https://drive.google.com/drive/folders/1Tpwv__MWHV0ul-627uQNbOuqyFWePJ-N?usp=sharing)
+Please first dowmload the pre-trained model [[Link]](https://drive.google.com/drive/folders/1Tpwv__MWHV0ul-627uQNbOuqyFWePJ-N?usp=sharing), and put the folder "Models" into the same directory as this code.
 
 Then run "test_one_image.py" to predict the memerobility score of the input image, e.g.,
 
