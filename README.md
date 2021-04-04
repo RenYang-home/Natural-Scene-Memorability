@@ -38,6 +38,11 @@ without any human, animal and man-made object. The pre-trained model may be not 
 
 The aim of predicting memorability is to rank the image memorability as correctly as possible. Therefore, the absolute scores (e.g., 0.61) themselves are not meaningful , and only the rank matters, e.g., the image with score = 0.61 is more memorable than that with score = 0.40.
 
+## LNSIM dataset
+
+The proposed LNSIM dataset is avaible at https://github.com/JiaxinLu-home/Natural-Scene-Memorability-Dataset
+
+
 ## Contact
 
 If you find any bug of our codes or have any question, please do not hesitate to contact:
