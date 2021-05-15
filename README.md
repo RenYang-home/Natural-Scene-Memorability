@@ -40,7 +40,7 @@ The aim of predicting memorability is to rank the image memorability as correctl
 
 ## LNSIM dataset
 
-The proposed LNSIM dataset is avaible at https://github.com/JiaxinLu-home/Natural-Scene-Memorability-Dataset
+The proposed LNSIM dataset is available at https://github.com/JiaxinLu-home/Natural-Scene-Memorability-Dataset
 
 
 ## Contact
